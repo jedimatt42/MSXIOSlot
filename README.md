@@ -8,7 +8,7 @@ This repository contains KiCad design files based on the diagrams and informatio
 
 ## What
 
-This is a simple IO Slot expander. It allows the forward slow to receive the MSX slot select, and 
+This is a simple IO Slot extender. It allows the forward slow to receive the MSX slot select, and 
 the rear slot to always see high signal (off) for slot select. This does not perform subslot decoding.
 The second slot is only able to support IO port based expansions, like the V9990 PowerGraph Lite. 
 
