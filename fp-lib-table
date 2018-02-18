@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name msx_slots)(type KiCad)(uri "$(KIPRJMOD)/msx_slots.pretty")(options "")(descr ""))
+)
