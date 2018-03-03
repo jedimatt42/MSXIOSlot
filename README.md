@@ -15,7 +15,9 @@ The second slot is only able to support IO port based expansions, like the V9990
 This differes from Mr. Otten's work in that it does not include a disable switch on the slot select 
 line. 
 
-I have not tested it at all as of ( Februrary 18th, 2018 ) 
+## Success
 
+This has been tested on my Panasonic FS-A1FX MSX2+ system with GR8NET and V9990 PowerGraph Lite 
+connected with this adapter. 
 
 
